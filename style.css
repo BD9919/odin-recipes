@@ -1,0 +1,28 @@
+body {
+    background-color: powderblue;
+    text-align: center; 
+}
+
+#cookBook {
+    max-width: 20%;
+    max-height: 70%;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    text-underline-offset: 10;
+}
+
+#recipesList {
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+    border-style: dotted;
+
+}
+
+div.cornedBeefdiv {
+    border-radius: 50%
+}
